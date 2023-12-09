@@ -3,8 +3,6 @@ import React, { useRef } from "react";
 export const useScrollbarWidth = () => {
   const widthRef = useRef(-1);
 
-  console.log("BEFORE CHECK", widthRef.current);
-
   if (widthRef.current >= 0) return widthRef.current;
 
   const wrapper = document.createElement("div");
@@ -17,8 +15,6 @@ export const useScrollbarWidth = () => {
 
   widthRef.current = wrapper.offsetWidth - inner.offsetWidth;
   document.body.removeChild(wrapper);
-
-  console.log("AFTER CHECK", widthRef.current);
 
   return widthRef.current;
 };
