@@ -4,6 +4,8 @@
 
 #### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/https://t.me/tipichnyj_web_razrabotchik)
 
+#### `Видео:` [YouTube](https://youtu.be/B344FyTHMjw) | [VK Видео](https://vk.com/video-222570561_456239067) | [Дзен](https://m.dzen.ru/video/watch/65717ba6fcae6b3928bba92a) | [RuTube](https://rutube.ru/video/37bb2fc71cb37619be5f21d50861d567/)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-hook-use-scrollbar-width.git`
